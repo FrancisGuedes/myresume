@@ -1,7 +1,7 @@
 ## Description
 This is a ReactJS based personal resume website template. I'm currently building this and begun with a template forked from Tim Bakers and from Styleshout (credits below). Data is fed directly from a JSON File. This means that in its .final form, it can be customized and used by anybody simply by filling in their own personal info into the JSON file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
 
-## Make it Your Own!
+## Make it Your Own : )
 ### 1. Make sure you have what you need
 To build this website, you will need to have Node >=6 downloaded and installed on your machine. If you don't already have it, you can get it <a href="https://nodejs.org/en/download/">HERE</a>
 ### 2. Build a Create-React-App
