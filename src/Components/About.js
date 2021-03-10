@@ -7,7 +7,6 @@ class About extends Component {
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
-      var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;

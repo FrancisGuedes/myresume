@@ -46,16 +46,22 @@
     "skillmessage":"Please be aware that I'm mostly a self-thaught programmer",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Instituto Superior de Economia e Gestão, Lisbon",
+        "degree":"Post-Graduation in Digital Technologies for Management",
+        "graduated":"2020 - 2021",
+        "description":"Agile Methods - Agile Project Management - Competitive Intelligence - Cloud Computing Tools and Application - Data Base Management (SQL) - Information Systems Security - Design Thinking - Business Analytics (Power BI) - Software Development (Python) - Software Development Project (Django) - Digital Transformation Strategy - Consulting in Digital Management"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Instituto Superior de Gestão, Lisbon",
+        "degree":"Post-Graduation in Business Management",
+        "graduated":"2019 - 2020",
+        "description":"Strategic Business - Organization Behavior - Business Competitiveness - International Marketing - Finance Management - Economy - Business Ethnics - Analysis of Project Investements - Logistics and Operations - Capital Market"
+      },
+      {
+        "school":"Codecademy",
+        "degree":"Certification Web Developement",
+        "graduated":"2020",
+        "description":"HTML - CSS - GIT - Java Script - OOP - Async Js and HTTPS Requests - Test Driven Development - React JSX and Components - Redux - Linear Data Structures - "
       }
     ],
     "work":[
