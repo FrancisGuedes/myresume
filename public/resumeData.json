@@ -1,61 +1,49 @@
 {
   "main": {
-    "name":" Francis",
+    "name":" Francisco Guedes",
     "occupation":" junior developer and data analyst enthusiast",
     "description":"currently working @ TP in",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Passionate about technology and programming, I have been looking for training in this area. My entire professional experience has been focused on Customer Centric and problem solving with a strong commitment to customer satisfaction.From 2012 untill 2020 worked in the Turism and Hospitality sector in award winning stablishments all over Europe. Currently working in Teleperformance, Lisbon, seeking a Junior Developer position to leverage my professional expertise and career. In my spare time I'm working on my side projects as a programmer, listening to Economic and Financial podcasts, reading about inspiring world leaders and working on my mind and body.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "franciscojmguedes@gmail.com",
+    "phone": "+351 960213927",
     "address":{
-      "street":"(Your Street)",
       "city":"Lisbon",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": "Portugal"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/FrancisBits",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/franciscojmguedes/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/farawei/?hl=pt",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/FrancisGuedes",
         "className":"fa fa-github"
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"https://web.skype.com/",
         "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Please be aware that I'm mostly a self-thaught programmer",
     "education":[
       {
         "school":"University?",
@@ -90,7 +78,7 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"HTML5 / CSS / JS",
         "level":"55%"
       },
       {
@@ -98,20 +86,20 @@
         "level":"50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Django",
+        "level":"40%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
+        "name":"SQL",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Python",
+        "level":"55%"
+      },
+      {
+        "name":"Power BI",
+        "level":"40%"
       }
     ]
   },
