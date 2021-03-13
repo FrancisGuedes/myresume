@@ -4,7 +4,7 @@
     "occupation":" junior developer and data analyst enthusiast",
     "description":"currently working @ TP in",
     "image":"profilepic.jpg",
-    "bio":"Passionate about technology and programming, I have been looking for training in this area. My entire professional experience has been focused on Customer Centric and problem solving with a strong commitment to customer satisfaction.From 2012 untill 2020 worked in the Turism and Hospitality sector in award winning stablishments all over Europe. Currently working in Teleperformance, Lisbon, seeking a Junior Developer position to leverage my professional expertise and career. In my spare time I'm working on my side projects as a programmer, listening to Economic and Financial podcasts, reading about inspiring world leaders and working on my mind and body.",
+    "bio":"Passionate about technology and programming, I have been looking for training in this area. My entire professional experience has been focused on Customer Centric and problem solving with a strong commitment to customer satisfaction. From 2012 untill 2020 worked in the Tourism and Hospitality sector in award winning establishments all over Europe. Currently working in Teleperformance, Lisbon, seeking a Junior Developer position to leverage my professional expertise and career. In my spare time I'm working on my side projects as a programmer, listening to Economic and Financial podcasts, reading about inspiring world leaders and working on my mind and body.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "franciscojmguedes@gmail.com",
     "phone": "+351 960213927",
@@ -12,8 +12,8 @@
       "city":"Lisbon",
       "zip": "Portugal"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.",
+    "resumedownload":"./images/Francisco_Guedes_CV_ENG.pdf",
     "social":[
       {
         "name":"twitter",
@@ -61,27 +61,39 @@
         "school":"Codecademy",
         "degree":"Certification Web Developement",
         "graduated":"2020",
-        "description":"HTML - CSS - GIT - Java Script OOP - Async Js and HTTPS Requests - JSON - Test Driven Development - React JSX, Components, Hooks - Redux - Linear Data Structures - SQL - RESTful APIs - Node.js - Express.js"
+        "description":"HTML - CSS - GIT - Java Script OOP - Async Js and HTTPS Requests - JSON - Test Driven Development - React JSX, Components, Hooks - Redux - Relational Data Structures SQL - RESTful APIs - Node.js - Express.js"
+      },
+      {
+        "school":"Escola de Hotelaria e Turismo de Coimbra",
+        "degree":"Hospitality Management",
+        "graduated":"2012 - 2014",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Teleperformance, Lisbon",
+        "title":"Help Desk / Customer Service",
+        "years":"April 2020 - Present",
+        "description":"Help Desk / Customer Support in English via chat, email and inbound calls on Netflix and FootLocker projects"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Fauna & Flora, Lisbon",
+        "title":"Manager",
+        "years":"October 2019 - April 2020",
+        "description":"Team leader of 14 people where I managed and monitored all the consumer goods, food costs, events, menus and suppliers."
+      },
+      {
+        "company":"Fava Tonka, Oporto",
+        "title":"Manager",
+        "years":"May 2019 - October 2019",
+        "description":"Responsible for the restaurant with a team of 9 where I supervised and managed all consumer goods, stocks, variable costs, events, menus and suppliers."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"30%"
       },
       {
         "name":"HTML5 / CSS / JS",
@@ -112,42 +124,42 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"First Steps Digital Edition",
+        "category":"Website event of an NPO",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/FrancisGuedes/FirstSteps-DigitalEdition"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Art On A Plate",
+        "category":"Try to not get mouth watering",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://www.canva.com/design/DADhWy94a9U/view?utm_content=DADhWy94a9U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Mind and Body",
+        "category":"Art and Body",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://www.canva.com/design/DAEYp24_UIY/_cg819V4I8uL-ZJYlAT3Xg/watch?utm_content=DAEYp24_UIY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Mind and body",
+        "category":"Art And Body",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":""
       },
       {
         "title":"Smirkspace",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":""
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Work fast and get shit done.",
+        "user":"Tourism and Hospitality Sector"
       },
       {
         "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
